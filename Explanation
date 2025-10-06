@@ -1,0 +1,5 @@
+Original vs Reconstructed: The blue line is the real NVDA closing price; the orange dashed line is the version rebuilt from only the strongest cycles. When the filter is strict, the orange loses detail and diverges, revealing what information those few cycles actually carry.
+
+Power Spectrum: This chart shows how much variance the series has at each frequency—the taller the bar, the stronger that repeating cycle. Peaks hint at rhythms in the data, while flatter regions look more like noise.
+
+Dominant Frequencies: These are just the biggest peaks from the spectrum—the cycles kept for reconstruction. They explain most of the structure in the simplified orange curve and show which periodicities mattered most.
